@@ -141,7 +141,7 @@ st.markdown("""
 col1, col2 = st.columns(2)
 
 with col1:
-    styled_audio_player("PENSIONISSSTE_a.MP3", "Versión A 🎧", "#3498DB")
+    styled_audio_player("PENSIONISSSTE_a.mp3", "Versión A 🎧", "#3498DB")
     st.image("https://cdn.pixabay.com/photo/2017/01/31/23/42/decorative-2028039_640.png", 
             use_container_width=True, caption="Ondas de audio - Versión A")
 
